@@ -6,13 +6,21 @@ p{font-size: 22px;}\
 
 .aboutmeimage {
 image-orientation: center;
-
 }
+
+.link {
+  color: #6699ff;
+  text-decoration-color:#6699ff ;
+}
+
+.link:hover {color:#ff6600 ;}
+
 .list {
   text-align: left;
-  color: black;
+  color: black; 
   font-size: 22px;
   text-decoration:;
+  
 }
 
 .header {
@@ -27,7 +35,6 @@ image-orientation: center;
 .topnav {
   background-color: #707881;
  overflow: hidden;
-
 }
 
 
