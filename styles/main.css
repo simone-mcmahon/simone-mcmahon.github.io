@@ -1,4 +1,10 @@
 
+body{font-family: 'Open Sans Condensed', sans-serif;
+text-align: center;}
+
+.list {
+  text-align: left;
+}
 
 .header {
     padding: 60px;
@@ -8,3 +14,32 @@
     font-size: 30px;
     font-family: 'Open Sans Condensed', sans-serif;
   }
+
+.topnav {
+  background-color: #707881;
+ overflow: hidden;
+
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color:#707881;
+}
+
+
+.topnav a.active {
+  background-color: #6699ff;
+  color: white;
+}
