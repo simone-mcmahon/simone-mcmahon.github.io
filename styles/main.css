@@ -2,7 +2,7 @@
 body{font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;}
 
-p{font-size: 22px;}
+p{font-size: 22px;}\
 
 .aboutmeimage {
 image-orientation: center;
@@ -51,4 +51,9 @@ image-orientation: center;
 .topnav a.active {
   background-color: #6699ff;
   color: white;
+}
+
+
+.competencies {
+  color: #ff6600 ;
 }
