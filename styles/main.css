@@ -1,9 +1,18 @@
 
 body{font-family: 'Open Sans Condensed', sans-serif;
-text-align: center;}
+  text-align: center;}
 
+p{font-size: 22px;}
+
+.aboutmeimage {
+image-orientation: center;
+
+}
 .list {
   text-align: left;
+  color: black;
+  font-size: 22px;
+  text-decoration:;
 }
 
 .header {
