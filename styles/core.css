@@ -1,0 +1,70 @@
+body{font-family: 'Open Sans Condensed', sans-serif;
+    text-align: left;}
+  
+  p{font-size: 22px;}\
+  
+  .aboutmeimage {
+  image-orientation: center;
+  }
+  
+  .link {
+    color: #6699ff;
+    text-decoration-color:#6699ff ;
+  }
+  
+  .link:hover {color:#ff6600 ;}
+  
+  .list {
+    text-align: left;
+    color: black; 
+    font-size: 22px;
+    text-decoration:;
+    
+  }
+  
+  
+  .header {
+      padding: 60px;
+      text-align: center;
+      background: #6699ff;
+      color: white;
+      font-size: 30px;
+      font-family: 'Open Sans Condensed', sans-serif;
+    }
+  
+  .topnav {
+    background-color: #707881;
+   overflow: hidden;
+  }
+  
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color:#707881;
+  }
+  
+  
+  .topnav a.active {
+    background-color: #6699ff;
+    color: white;
+  }
+  
+  
+  .competencies {
+    color: #ff6600 ;
+  }
+  
+  .comebacktothis {
+    color: #ff6600
+  }
