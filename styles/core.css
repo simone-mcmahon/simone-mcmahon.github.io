@@ -3,6 +3,10 @@ body{font-family: 'Open Sans Condensed', sans-serif;
   
   p{font-size: 22px;}\
   
+  .EDA-reflections { background-color: #203354;
+color: white;}
+
+
   .aboutmeimage {
   image-orientation: center;
   }
@@ -19,7 +23,6 @@ body{font-family: 'Open Sans Condensed', sans-serif;
     color: black; 
     font-size: 22px;
     text-decoration:;
-    
   }
   
   
@@ -31,6 +34,7 @@ body{font-family: 'Open Sans Condensed', sans-serif;
       font-size: 30px;
       font-family: 'Open Sans Condensed', sans-serif;
     }
+
   
   .topnav {
     background-color: #707881;
@@ -61,9 +65,6 @@ body{font-family: 'Open Sans Condensed', sans-serif;
   }
   
   
-  .competencies {
-    color: #ff6600 ;
-  }
   
   .comebacktothis {
     color: #ff6600
