@@ -1,16 +1,10 @@
 body{font-family: 'Open Sans Condensed', sans-serif;
     text-align: left;}
   
-  p{font-size: 22px;}\
+  p{font-size: 22px;}
   
-  .EDA-reflections { background-color: #203354;
-color: white;}
-
-
-  .aboutmeimage {
-  image-orientation: center;
-  }
   
+
   .link {
     color: #6699ff;
     text-decoration-color:#6699ff ;
@@ -65,7 +59,13 @@ color: white;}
   }
   
   
-  
   .comebacktothis {
     color: #ff6600
+  }
+
+.reflections {
+        background-color: #203354;
+        color: white;
+        padding: 20px;
+        margin: 20px;
   }
