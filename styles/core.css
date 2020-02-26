@@ -69,3 +69,19 @@ body{font-family: 'Open Sans Condensed', sans-serif;
         padding: 20px;
         margin: 20px;
   }
+
+  li {
+    font-size:22px;
+  }
+
+  a {
+    color: #6699ff;
+  }
+
+  a:visited {
+    color: #6699ff;
+  }
+
+  a:hover {
+    color: #ff6600;
+  }
