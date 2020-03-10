@@ -85,3 +85,8 @@ body{font-family: 'Open Sans Condensed', sans-serif;
   a:hover {
     color: #ff6600;
   }
+
+  .brainimg2 {
+   padding: 10px;
+   float :right;
+  }
